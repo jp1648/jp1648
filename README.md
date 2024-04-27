@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jp1648
-- 👀 I’m interested in full-stack development, AI, Python development
-- 🌱 I’m currently learning MERN stack, AI tools, Flask
+- 👀 I’m interested in full-stack development, AI, Python development, JS development
+- 🌱 I’m currently learning React, Next, ML tools, Flask
 - 📫 How to reach me: @jaypat0885@gmail.com
 
 <!---
